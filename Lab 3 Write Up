@@ -1,0 +1,6 @@
+In this lab, we adjust the coin flipper program to use HTML and CSS as a UI. This requires usage
+of the DOM and a solid understanding of manipulating HTML with Javascript.
+I learned a lot about how to use the DOM and many ways to create, load, and manipulate tags in Javascript.
+In particular I learned the difference between innertext, outerhtml and value.
+Something I think could be improved in this lab is the histogram component. I think it'd be more interesting
+if we could choose how we wanted to plot the data.
